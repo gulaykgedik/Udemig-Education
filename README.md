@@ -2,14 +2,14 @@
 # Udemig Education
 <br>
 
-Bu proje, HTML, CSS ve Bootstrap kullanılarak oluşturulmuş bir Udemig Education arayüzüdür.
+Bu proje, HTML5, CSS3 ve Bootstrap kullanılarak oluşturulmuş bir Udemig Education arayüzüdür.
 
 # Özellikler
 <br>
 
 – Tamamen responsive tasarım
 
-– HTML ve CSS ile sıfırdan oluşturulmuş bileşenler
+– HTML5 ve CSS3 ile sıfırdan oluşturulmuş bileşenler
 
 – Ekran boyutlarına duyarlı yerleşim
 
