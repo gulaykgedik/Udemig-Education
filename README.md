@@ -4,7 +4,7 @@
 
 Bu proje, HTML, CSS ve Bootstrap kullanılarak oluşturulmuş bir Emaartech Building arayüzüdür.
 
-#Özellikler
+# Özellikler
 <br>
 
 – Tamamen responsive tasarım
@@ -15,7 +15,7 @@ Bu proje, HTML, CSS ve Bootstrap kullanılarak oluşturulmuş bir Emaartech Buil
 
 – Bootstrap Kütüpanesi kullanılmıştır.
 
-#Ekran Kaydı
+# Ekran Kaydı
 <br>
 
 ![Udemig-Education](https://github.com/user-attachments/assets/f22bfb79-bd52-4111-9118-b6139265e906)
