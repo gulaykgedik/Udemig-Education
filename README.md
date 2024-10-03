@@ -1,8 +1,8 @@
 
-# Emaartech Building
+# Udemig Education
 <br>
 
-Bu proje, HTML, CSS ve Bootstrap kullanılarak oluşturulmuş bir Emaartech Building arayüzüdür.
+Bu proje, HTML, CSS ve Bootstrap kullanılarak oluşturulmuş bir Udemig Education arayüzüdür.
 
 # Özellikler
 <br>
